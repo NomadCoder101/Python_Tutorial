@@ -1,0 +1,11 @@
+print(1<2>3)
+print(1<2 and 2>8)
+print('h'=='h' and 2==2)
+print(('h'=='h') and(  2==2))
+print(('h'=='h') or(  2==2))
+print(('h'=='h') or(  1==2))
+print(('h'=='g') or(  1==2))
+
+print(not 1 ==1)
+print(400 >4000)
+print(not 400 >4000)
